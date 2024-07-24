@@ -1,5 +1,5 @@
   
-**Sage Bionetworks’ use of Cookies and Similar Technologies.**
+**Sage Bionetworks’ use of Cookies and Similar Technologies**
 
 We use cookies or similar technologies (collectively “Cookies”) to enhance your experience on our website and services.
 
@@ -41,9 +41,9 @@ We use the following Cookies:
 | :---- | :---- | :---- | :---- |
 | \_ga | Google | Used to distinguish users in the Google Analytics platform, so we can analyze aggregate statistics of application usage to improve services. | 2 years |
 | \_ga\_\<ContainerID\> such as \_ga\_Y07DD946E4 or \_ga\_CEKFPZDZX7 | Google | Used to persist session state in the Google Analytics platform, so we can analyze aggregate statistics of application usage to improve services. | 2 years |
-| \_gid | Google | Used to store and count pageviews in the Google Analytics platform, so we can analyze aggregate statistics of application usage to improve services. | ** ** |
+| \_gid | Google | Used to store and count page views in the Google Analytics platform, so we can analyze aggregate statistics of application usage to improve services. | 2 years |
 
-** **  
+  
    
 **Date**:  July 10, 2024
 
