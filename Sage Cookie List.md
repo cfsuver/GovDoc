@@ -1,5 +1,6 @@
-  
-**Sage Bionetworks’ use of Cookies and Similar Technologies**
+<img src = "https://github.com/user-attachments/assets/6595a92b-dfed-4b75-8961-d00491312ab6" width="400">
+
+**<p align=center>Sage Bionetworks’ use of Cookies and Similar Technologies</p>**
 
 We use cookies or similar technologies (collectively “Cookies”) to enhance your experience on our website and services.
 
@@ -40,7 +41,7 @@ We use the following Cookies:
 | Cookie Name | Provider | Purpose | Expiry |
 | :---- | :---- | :---- | :---- |
 | \_ga | Google | Used to distinguish users in the Google Analytics platform, so we can analyze aggregate statistics of application usage to improve services. | 2 years |
-| \_ga\_\<ContainerID\> such as \_ga\_Y07DD946E4 or \_ga\_CEKFPZDZX7 | Google | Used to persist session state in the Google Analytics platform, so we can analyze aggregate statistics of application usage to improve services. | 2 years |
+| \_ga\_\<ContainerID\> such as \ga\_Y07DD946E4 or \_ga\_CEKFPZDZX7 | Google | Used to persist session state in the Google Analytics platform, so we can analyze aggregate statistics of application usage to improve services. | 2 years |
 | \_gid | Google | Used to store and count page views in the Google Analytics platform, so we can analyze aggregate statistics of application usage to improve services. | 2 years |
 
   
